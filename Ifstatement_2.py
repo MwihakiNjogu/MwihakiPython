@@ -1,3 +1,4 @@
+
 number= int(input("Enter any number between 0 to 3"))
 
 if number == 0:
